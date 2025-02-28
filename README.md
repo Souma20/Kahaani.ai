@@ -42,17 +42,20 @@
 ![Homepage](https://your-image-url.com/homepage.png)
 
 ### 🔹 Image Generation
-![Story Generation](https://your-image-url.com/story-gen.png)
+![Image Generation](https://your-image-url.com/story-gen.png)
 
 ### 🔹 Story Generation
-![Blog Page](https://your-image-url.com/blog.png)
+![Story Generation](https://your-image-url.com/blog.png)
 
 ### 🔹 Story Enhancer
-![Blog Page](https://your-image-url.com/blog.png)
+![Story Enhancer](https://your-image-url.com/blog.png)
 
 ### 🔹 Blog Page
 ![Blog Page](https://your-image-url.com/blog.png)
 
 ### 🔹 Text Editor
-![Blog Page](https://your-image-url.com/blog.png)
+![Text Editor](https://your-image-url.com/blog.png)
+
+### 🔹 Signup and Verification
+![Sign up Page](https://your-image-url.com/blog.png)
 
