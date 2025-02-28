@@ -64,6 +64,6 @@
 ### 🔹 Signup and Verification
 ![Sign up Page](screenshots/sign-up.png)
 
-![Sign up Page](screentshots/verification.png)
+![Verification Page](screenshots/verification.png)
 
 
