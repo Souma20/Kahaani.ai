@@ -39,31 +39,31 @@
 ## 📸 Screenshots
 
 ### 🔹 Homepage
-![Homepage](screenshots/home page.png)
+![Homepage](screenshots/home-page.png)
 
 ### 🔹 Image Generation
-![Image Generation](https://your-image-url.com/story-gen.png)
+![Image Generation](screenshots/Image-Generation.png)
 
 ### 🔹 Story Generation
-![Story Generation](https://your-image-url.com/blog.png)
+![Story Generation](screenshots/story-generation.png)
 
 ### 🔹 Story Enhancer
-![Story Enhancer](https://your-image-url.com/blog.png)
+![Story Enhancer](screenshots/story-enhancer.png)
 
 ### 🔹 Blog Page
-![Blog Page1](https://your-image-url.com/blog.png)
+![Blog Page1](screenshots/blog-pg1.png)
 
-![Blog Page2](https://your-image-url.com/blog.png)
+![Blog Page2](screenshots/blog-pg2.png)
 
-![Blog Page1](https://your-image-url.com/blog.png)
+![Blog Page1](screenshots/full-blog-pg.png)
 
 
 ### 🔹 Text Editor
-![Text Editor](https://your-image-url.com/blog.png)
+![Text Editor](screenshots/text-editor.png)
 
 ### 🔹 Signup and Verification
-![Sign up Page](https://your-image-url.com/blog.png)
+![Sign up Page](screenshots/sign-up.png)
 
-![Sign up Page](https://your-image-url.com/blog.png)
+![Sign up Page](screentshots/verification.png)
 
 
