@@ -50,8 +50,11 @@
 ### 🔹 Story Enhancer
 ![Story Enhancer](https://your-image-url.com/blog.png)
 
-### 🔹 Blog Page
-![Blog Page](https://your-image-url.com/blog.png)
+### 🔹 Blog Page1
+![Blog Page1](https://your-image-url.com/blog.png)
+
+### 🔹 Blog Page2
+![Blog Page2](https://your-image-url.com/blog.png)
 
 ### 🔹 Text Editor
 ![Text Editor](https://your-image-url.com/blog.png)
