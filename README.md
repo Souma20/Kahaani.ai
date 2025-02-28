@@ -39,7 +39,7 @@
 ## 📸 Screenshots
 
 ### 🔹 Homepage
-![Homepage](https://your-image-url.com/homepage.png)
+![Homepage](screenshots/home page.png)
 
 ### 🔹 Image Generation
 ![Image Generation](https://your-image-url.com/story-gen.png)
@@ -50,15 +50,20 @@
 ### 🔹 Story Enhancer
 ![Story Enhancer](https://your-image-url.com/blog.png)
 
-### 🔹 Blog Page1
+### 🔹 Blog Page
 ![Blog Page1](https://your-image-url.com/blog.png)
 
-### 🔹 Blog Page2
 ![Blog Page2](https://your-image-url.com/blog.png)
+
+![Blog Page1](https://your-image-url.com/blog.png)
+
 
 ### 🔹 Text Editor
 ![Text Editor](https://your-image-url.com/blog.png)
 
 ### 🔹 Signup and Verification
 ![Sign up Page](https://your-image-url.com/blog.png)
+
+![Sign up Page](https://your-image-url.com/blog.png)
+
 
