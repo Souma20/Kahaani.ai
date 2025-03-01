@@ -42,17 +42,24 @@
 ![home-page](https://github.com/user-attachments/assets/a56fdf1c-4472-4ec6-80c3-eaa4668059f1)
 
 ### 🔹 Image Generation
-![Image Generation](screenshots/Image-Generation.png)
+![image](https://github.com/user-attachments/assets/7f18badc-8286-4b98-9e3e-b2791701fd60)
 
 ### 🔹 Story Generation
-![Story Generation](screenshots/story-generation.png)
+![image](https://github.com/user-attachments/assets/951c1e8e-2037-42b5-9ca8-216875b64a47)
 
 ### 🔹 Story Enhancer
-![Story Enhancer](screenshots/story-enhancer.png)
+![image](https://github.com/user-attachments/assets/df520ab9-ce91-469a-81ad-e0c8874de274)
 
 ### 🔹 Blog Page
-![Blog Page1](screenshots/blog-pg1.png)
+![image](https://github.com/user-attachments/assets/3d9a6c02-f8df-45bd-bb6e-6424ffe27689)
 
-![Blog Page2](screenshots/blog-pg2.png)
+![image](https://github.com/user-attachments/assets/f1805ceb-e5a3-4faf-a88a-a74f57033d09)
 
-![Blog Page1](screenshots/full-blog-pg.png)
+### 🔹 Text Editor
+![image](https://github.com/user-attachments/assets/aae96dff-133b-4261-a507-353115b2d012)
+
+### 🔹 Signup and Verification
+![image](https://github.com/user-attachments/assets/ff186f76-4d6a-43db-95c0-0b0d9fe72104)
+
+![Verification Page](screenshots/verification.png)
+
