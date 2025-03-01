@@ -39,7 +39,7 @@
 ## 📸 Screenshots
 
 ### 🔹 Homepage
-![Homepage](screenshots/home-page.png)
+![Homepage]("Downloads/home-page.png")
 
 ### 🔹 Image Generation
 ![Image Generation](screenshots/Image-Generation.png)
