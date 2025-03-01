@@ -39,7 +39,7 @@
 ## 📸 Screenshots
 
 ### 🔹 Homepage
-![Homepage]("Downloads/home-page.png")
+![home-page](https://github.com/user-attachments/assets/a56fdf1c-4472-4ec6-80c3-eaa4668059f1)
 
 ### 🔹 Image Generation
 ![Image Generation](screenshots/Image-Generation.png)
