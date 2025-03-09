@@ -1,6 +1,5 @@
 # KahaniAI
 
-![KahaniAI](https://your-image-url.com/banner.png)  
 *A revolutionary AI-powered storytelling platform*
 
 ## 🚀 About KahaniAI
@@ -64,6 +63,6 @@
 ### 🔹 Signup and Verification
 ![Sign up Page](screenshots/sign-up.png)
 
-![Sign up Page](screentshots/verification.png)
+![Verification page](screentshots/verification.png)
 
 
