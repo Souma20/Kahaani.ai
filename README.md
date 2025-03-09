@@ -63,6 +63,10 @@
 ### 🔹 Signup and Verification
 ![Sign up Page](screenshots/sign-up.png)
 
+<<<<<<< HEAD
 ![Verification page](screentshots/verification.png)
+=======
+![Verification Page](screenshots/verification.png)
+>>>>>>> b5526ee03a4ae31c28b641cb82acdd80be47de3c
 
 
