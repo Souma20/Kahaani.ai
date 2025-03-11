@@ -40,7 +40,7 @@ const Home = () => {
       {/* Hero Section */}
       <div
         className="relative flex flex-col items-center justify-center text-center min-h-screen bg-cover bg-center"
-        style={{ backgroundImage: "url('/src/assets/images/bg.jpg')" }}
+        style={{ backgroundImage: "url('/images/bg.jpg')" }}
       >
         <div className="absolute inset-0 bg-black opacity-50"></div>
 

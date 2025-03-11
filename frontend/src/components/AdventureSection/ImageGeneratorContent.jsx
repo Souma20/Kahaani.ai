@@ -41,7 +41,7 @@ const FeaturesSection = () => {
               whileHover={{ scale: 1.05 }}
             >
               <img 
-                src="/src/assets/images/sample2.jpg" 
+                src="/images/sample2.jpg" 
                 alt="Creative Editor" 
                 className="w-full h-48 object-cover transform hover:scale-110 transition-transform duration-500"
               />
@@ -66,7 +66,7 @@ const FeaturesSection = () => {
               whileHover={{ scale: 1.05 }}
             >
               <img 
-                src="/src/assets/images/sample9.webp" 
+                src="/images/sample9.webp" 
                 alt="Image Adjustment" 
                 className="w-full h-48 object-cover transform hover:scale-110 transition-transform duration-500"
               />
@@ -88,10 +88,10 @@ const PromptSection = () => {
   const [flippedCards, setFlippedCards] = useState(new Array(4).fill(false));
 
   const creators = [
-    { name: "Creator : Vanshika", image: "/src/assets/images/sample1.jpg" },
-    { name: "Creator : Salif", image: "/src/assets/images/sample3.jpg" },
-    { name: "Creator : Souma", image: "/src/assets/images/sample4.jpg" },
-    { name: "Creator : Sannit", image: "/src/assets/images/sample6.jpg" }
+    { name: "Creator : Vanshika", image: "/images/sample1.jpg" },
+    { name: "Creator : Salif", image: "/images/sample3.jpg" },
+    { name: "Creator : Souma", image: "/images/sample4.jpg" },
+    { name: "Creator : Sannit", image: "/images/sample6.jpg" }
   ];
 
   const handleCardClick = (index) => {
@@ -173,12 +173,12 @@ const ImageGrid = () => {
   });
 
   const images = [
-    '/src/assets/images/sample1.jpg',
-    '/src/assets/images/sample2.jpg',
-    '/src/assets/images/sample3.jpg',
-    '/src/assets/images/sample4.jpg',
-    '/src/assets/images/sample5.jpg',
-    '/src/assets/images/sample6.jpg'
+    '/images/sample1.jpg',
+    '/images/sample2.jpg',
+    '/images/sample3.jpg',
+    '/images/sample4.jpg',
+    '/images/sample5.jpg',
+    '/images/sample6.jpg'
   ];
 
   const [rotation, setRotation] = useState(0);
