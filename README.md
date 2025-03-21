@@ -1,6 +1,5 @@
 # KahaniAI
-
-![KahaniAI](https://your-image-url.com/banner.png)  
+ 
 *A revolutionary AI-powered storytelling platform*
 
 ## 🚀 About KahaniAI
@@ -39,27 +38,27 @@
 ## 📸 Screenshots
 
 ### 🔹 Homepage
-![home-page](https://github.com/user-attachments/assets/a56fdf1c-4472-4ec6-80c3-eaa4668059f1)
+![image](https://github.com/user-attachments/assets/f3c3f925-5a5a-48b1-805b-2ce2d5706508)
+
 
 ### 🔹 Image Generation
-![image](https://github.com/user-attachments/assets/7f18badc-8286-4b98-9e3e-b2791701fd60)
+![image](https://github.com/user-attachments/assets/e13c895d-5a87-48a4-8ef0-c0cf07383d71)
+
 
 ### 🔹 Story Generation
-![image](https://github.com/user-attachments/assets/951c1e8e-2037-42b5-9ca8-216875b64a47)
+![image](https://github.com/user-attachments/assets/f40bb5fd-bdd3-413e-8c49-1462762916c6)
+
 
 ### 🔹 Story Enhancer
-![image](https://github.com/user-attachments/assets/df520ab9-ce91-469a-81ad-e0c8874de274)
+![image](https://github.com/user-attachments/assets/6af919e4-7f68-4b56-9c40-ab4771d6ede6)
 
 ### 🔹 Blog Page
-![image](https://github.com/user-attachments/assets/3d9a6c02-f8df-45bd-bb6e-6424ffe27689)
-
-![image](https://github.com/user-attachments/assets/f1805ceb-e5a3-4faf-a88a-a74f57033d09)
+![image](https://github.com/user-attachments/assets/7aa1eaa0-0651-4464-9964-b6d0cf9d04e8)
 
 ### 🔹 Text Editor
-![image](https://github.com/user-attachments/assets/aae96dff-133b-4261-a507-353115b2d012)
+![image](https://github.com/user-attachments/assets/2379bef1-27f1-4ce6-97e8-9f956c465373)
 
 ### 🔹 Signup and Verification
-![image](https://github.com/user-attachments/assets/ff186f76-4d6a-43db-95c0-0b0d9fe72104)
+![image](https://github.com/user-attachments/assets/b21f74eb-7178-490a-b0f3-a938d4b25829)
 
-![Verification Page](screenshots/verification.png)
 
